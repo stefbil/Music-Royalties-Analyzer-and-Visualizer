@@ -1,4 +1,4 @@
-# Smart Insights (MVP + Visuals + Streamlit)
+# Smart Insights
 
 Analyze messy CSV/Excel files with any schema, infer context (date/region/product/revenue/royalties), unify, generate insights & **charts**, and project the next 3 months. Includes a **Streamlit** front-end.
 
